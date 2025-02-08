@@ -12,15 +12,15 @@
       "compositionSafety": 47,
       "link": "https://www.shiseido.fr/fr/fr/shiseido-huile-demaquillante-parfaite-729238143418.html",
       "composition": [
-        { "ingredient": "Huile Minérale", "risk": "🟡 Risque Faible" },
-        { "ingredient": "Extrait de Riz", "risk": "🟢 Sain" }
+        { "ingredient": "Huile minérale", "risk": "🟡 Risque Faible" },
+        { "ingredient": "Extrait de riz", "risk": "🟢 Sain" }
       ]
     },
     {
       "id": 2,
       "name": "Crème Moussante Nettoyante Hydratante",
       "brand": "CeraVe",
-      "category": "Nettoyant Visage",
+      "category": "Nettoyant visage",
       "score": 92,
       "reproductiveHealth": 19,
       "cancerRisk": 18,
@@ -35,9 +35,9 @@
     },
     {
       "id": 3,
-      "name": "EFFACLAR MAT",
+      "name": "Effaclar Mat",
       "brand": "La Roche-Posay",
-      "category": "Crème Hydratante",
+      "category": "Crème hydratante",
       "score": 88,
       "reproductiveHealth": 17,
       "cancerRisk": 16,
@@ -46,15 +46,15 @@
       "compositionSafety": 45,
       "link": "https://www.laroche-posay.be/fr-be/effaclar/effaclar-mat",
       "composition": [
-        { "ingredient": "Acide Hyaluronique", "risk": "🟢 Sain" },
+        { "ingredient": "Acide hyaluronique", "risk": "🟢 Sain" },
         { "ingredient": "Silicones", "risk": "🟡 Risque Faible" }
       ]
     },
     {
       "id": 4,
       "name": "Crème Solaire Invisible SPF 50",
-      "brand": "La Roche-Posay!",
-      "category": "Crème Solaire",
+      "brand": "La Roche-Posay",
+      "category": "Crème solaire",
       "score": 94,
       "reproductiveHealth": 20,
       "cancerRisk": 20,
@@ -63,15 +63,15 @@
       "compositionSafety": 49,
       "link": "https://www.laroche-posay.fr/gammes/solaires/anthelios/anthelios-uvmune-400-creme-solaire-fluide-invisible-spf50-/LRP_025.html?srsltid=AfmBOoqJBAF9T8T7T_FBo3F25g_VQqQBm8S92GafdcP8aXBnbnor1n1j",
       "composition": [
-        { "ingredient": "Filtres Minéraux", "risk": "🟢 Sain" },
+        { "ingredient": "Filtres minéraux", "risk": "🟢 Sain" },
         { "ingredient": "Tinosorb S", "risk": "🟢 Sain" }
       ]
     },
     {
       "id": 5,
-      "name": "Lait Corps Nutritif Satinant au Karité 400ml",
+      "name": "Lait Corps Nutritif Satinant au Karité",
       "brand": "Mixa",
-      "category": "Soin du Corps",
+      "category": "Soin du corps",
       "score": 85,
       "reproductiveHealth": 15,
       "cancerRisk": 15,
@@ -80,7 +80,7 @@
       "compositionSafety": 44,
       "link": "https://www.mixa.fr/corps/lait-corps-nutritif-satinant-au-karite-400ml",
       "composition": [
-        { "ingredient": "Beurre de Karité", "risk": "🟢 Sain" },
+        { "ingredient": "Beurre de karité", "risk": "🟢 Sain" },
         { "ingredient": "Parfum", "risk": "🟡 Risque Faible" }
       ]
     }
