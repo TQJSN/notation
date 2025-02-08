@@ -1,10 +1,9 @@
 [
   {
     "id": 1,
-    "name": "La Roche-Posay
-ANTHELIOS UVMUNE 400 - SPF50+ Fluide Solaire Visage Matifiant Avec Parfum, Peaux Mixtes à Grasses, 50ml",
-    "brand": "La Roche-Posay",
-    "score": 95,
+    "name": "Crème Hydratante SPF 30",
+    "brand": "CeraVe",
+    "score": 90,
     "composition": [
       { "ingredient": "Beurre de Karité", "risk": "🟢" },
       { "ingredient": "Niacinamide", "risk": "🟢" },
@@ -14,21 +13,59 @@ ANTHELIOS UVMUNE 400 - SPF50+ Fluide Solaire Visage Matifiant Avec Parfum, Peaux
       "hydration": true,
       "texture": "Invisible",
       "sun_protection": true
-    }
+    },
+    "link": "https://www.cerave.fr/nos-produits/soin-visage/creme-hydratante-spf-30"
   },
   {
     "id": 2,
-    "name": "Lait corps nutritif satinant",
-    "brand": "Mixa",
-    "score": 80,
+    "name": "Gel Nettoyant Effaclar",
+    "brand": "La Roche-Posay",
+    "score": 75,
     "composition": [
       { "ingredient": "Aloe Vera", "risk": "🟢" },
-      { "ingredient": "Alcool Dénaturé", "risk": "🟠" }
+      { "ingredient": "Alcool Dénaturé", "risk": "🟠" },
+      { "ingredient": "Sulfate de Sodium", "risk": "🟡" }
     ],
     "adaptability": {
       "hydration": false,
       "texture": "Mousse",
       "sun_protection": false
-    }
+    },
+    "link": "https://www.laroche-posay.fr/effaclar-gel-nettoyant"
+  },
+  {
+    "id": 3,
+    "name": "Lait Hydratant Nourrissant",
+    "brand": "Mixa",
+    "score": 85,
+    "composition": [
+      { "ingredient": "Huile d'Amande Douce", "risk": "🟢" },
+      { "ingredient": "Glycérine", "risk": "🟢" },
+      { "ingredient": "Parfum", "risk": "🟡" }
+    ],
+    "adaptability": {
+      "hydration": true,
+      "texture": "Lait",
+      "sun_protection": false
+    },
+    "link": "https://www.mixa.fr/lait-hydratant-nourrissant"
+  },
+  {
+    "id": 4,
+    "name": "Crème Visage Anti-Taches",
+    "brand": "Nuhanciam",
+    "score": 95,
+    "composition": [
+      { "ingredient": "Vitamine C", "risk": "🟢" },
+      { "ingredient": "Extrait de Réglisse", "risk": "🟢" },
+      { "ingredient": "Parfum", "risk": "🟡" }
+    ],
+    "adaptability": {
+      "hydration": true,
+      "texture": "Crème",
+      "sun_protection": true
+    },
+    "link": "https://www.nuhanciam.com/creme-anti-taches"
   }
 ]
+
