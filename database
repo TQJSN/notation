@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "La Roche-Posay
+ANTHELIOS UVMUNE 400 - SPF50+ Fluide Solaire Visage Matifiant Avec Parfum, Peaux Mixtes à Grasses, 50ml",
+    "brand": "La Roche-Posay",
+    "score": 95,
+    "composition": [
+      { "ingredient": "Beurre de Karité", "risk": "🟢" },
+      { "ingredient": "Niacinamide", "risk": "🟢" },
+      { "ingredient": "Parfum", "risk": "🟡" }
+    ],
+    "adaptability": {
+      "hydration": true,
+      "texture": "Invisible",
+      "sun_protection": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Lait corps nutritif satinant",
+    "brand": "Mixa",
+    "score": 80,
+    "composition": [
+      { "ingredient": "Aloe Vera", "risk": "🟢" },
+      { "ingredient": "Alcool Dénaturé", "risk": "🟠" }
+    ],
+    "adaptability": {
+      "hydration": false,
+      "texture": "Mousse",
+      "sun_protection": false
+    }
+  }
+]
