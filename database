@@ -66,6 +66,55 @@
       "sun_protection": true
     },
     "link": "https://www.nuhanciam.com/creme-anti-taches"
+  },
+  {
+    "id": 5,
+    "name": "Gelée Corps Hydratante",
+    "brand": "Vaseline",
+    "score": 80,
+    "composition": [
+      { "ingredient": "Gelée de Pétrole", "risk": "🟡" },
+      { "ingredient": "Glycérine", "risk": "🟢" } 
+    ],
+    "adaptability": {
+      "hydration": true,
+      "texture": "Gelée",
+      "sun_protection": false
+    },
+    "link": "https://www.vaseline.com/us/en/products/vaseline-jelly/vaseline-original-healing-jelly.html"
+  },
+  {
+    "id": 6,
+    "name": "Lipikar Lait Hydratant Corps",
+    "brand": "La Roche-Posay",
+    "score": 88,
+    "composition": [
+      { "ingredient": "Beurre de Karité", "risk": "🟢" },
+      { "ingredient": "Glycérine", "risk": "🟢" },
+      { "ingredient": "Niacinamide", "risk": "🟢" }
+    ],
+    "adaptability": {
+      "hydration": true,
+      "texture": "Lait",
+      "sun_protection": false
+    },
+    "link": "https://www.laroche-posay.fr/lipikar-lait-hydratant"
+  },
+  {
+    "id": 7,
+    "name": "Base Crème Visage",
+    "brand": "WAAM Cosmetics",
+    "score": 90,
+    "composition": [
+      { "ingredient": "Beurre de Karité", "risk": "🟢" },
+      { "ingredient": "Huile de Coco", "risk": "🟢" },
+      { "ingredient": "Glycérine", "risk": "🟢" }
+    ],
+    "adaptability": {
+      "hydration": true,
+      "texture": "Crème",
+      "sun_protection": false
+    },
+    "link": "https://waamcosmetics.com/fr/les-bases-neutres/1258-base-creme-visage-3700851106667.html"
   }
 ]
-
