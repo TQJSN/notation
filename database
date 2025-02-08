@@ -9,6 +9,7 @@
       "transparency": 9,
       "blackSkinAdaptability": 19,
       "compositionSafety": 47,
+      "link": "https://www.shiseido.fr/fr/fr/shiseido-huile-demaquillante-parfaite-729238143418.html",
       "composition": [
         { "ingredient": "Huile Minérale", "risk": "🟡 Risque Faible" },
         { "ingredient": "Extrait de Riz", "risk": "🟢 Sain" }
@@ -16,7 +17,7 @@
     },
     {
       "id": 2,
-      "name": "Nettoyant Visage Doux",
+      "name": "Crème Moussante Nettoyante Hydratante",
       "brand": "CeraVe",
       "score": 92,
       "reproductiveHealth": 19,
@@ -24,6 +25,7 @@
       "transparency": 9,
       "blackSkinAdaptability": 19,
       "compositionSafety": 48,
+      "link": "https://www.cerave.fr/nos-produits/nettoyants/creme-moussante-nettoyante-hydratante",
       "composition": [
         { "ingredient": "Céramides", "risk": "🟢 Sain" },
         { "ingredient": "Niacinamide", "risk": "🟢 Sain" }
@@ -31,7 +33,7 @@
     },
     {
       "id": 3,
-      "name": "Crème Hydratante Matifiante",
+      "name": "EFFACLAR MAT",
       "brand": "La Roche-Posay",
       "score": 88,
       "reproductiveHealth": 17,
@@ -39,6 +41,7 @@
       "transparency": 9,
       "blackSkinAdaptability": 18,
       "compositionSafety": 45,
+      "link": "https://www.laroche-posay.be/fr-be/effaclar/effaclar-mat",
       "composition": [
         { "ingredient": "Acide Hyaluronique", "risk": "🟢 Sain" },
         { "ingredient": "Silicones", "risk": "🟡 Risque Faible" }
@@ -47,13 +50,14 @@
     {
       "id": 4,
       "name": "Crème Solaire Invisible SPF 50",
-      "brand": "Supergoop!",
+      "brand": "La Roche-Posay!",
       "score": 94,
       "reproductiveHealth": 20,
       "cancerRisk": 20,
       "transparency": 10,
       "blackSkinAdaptability": 20,
       "compositionSafety": 49,
+      "link": "https://www.laroche-posay.fr/gammes/solaires/anthelios/anthelios-uvmune-400-creme-solaire-fluide-invisible-spf50-/LRP_025.html?srsltid=AfmBOoqJBAF9T8T7T_FBo3F25g_VQqQBm8S92GafdcP8aXBnbnor1n1j",
       "composition": [
         { "ingredient": "Filtres Minéraux", "risk": "🟢 Sain" },
         { "ingredient": "Tinosorb S", "risk": "🟢 Sain" }
@@ -61,92 +65,18 @@
     },
     {
       "id": 5,
-      "name": "Crème Hydratante Corps Peaux Sèches",
-      "brand": "Nivea",
+      "name": "Lait Corps Nutritif Satinant au Karité 400ml",
+      "brand": "Mixa",
       "score": 85,
       "reproductiveHealth": 15,
       "cancerRisk": 15,
       "transparency": 8,
       "blackSkinAdaptability": 18,
       "compositionSafety": 44,
+      "link": "https://www.mixa.fr/corps/lait-corps-nutritif-satinant-au-karite-400ml",
       "composition": [
         { "ingredient": "Beurre de Karité", "risk": "🟢 Sain" },
         { "ingredient": "Parfum", "risk": "🟡 Risque Faible" }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Baume à Lèvres Hydratant",
-      "brand": "Labello",
-      "score": 80,
-      "reproductiveHealth": 14,
-      "cancerRisk": 14,
-      "transparency": 7,
-      "blackSkinAdaptability": 17,
-      "compositionSafety": 40,
-      "composition": [
-        { "ingredient": "Beurre de Karité", "risk": "🟢 Sain" },
-        { "ingredient": "Cire d'Abeille", "risk": "🟢 Sain" }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Mascara Volume Intense",
-      "brand": "Maybelline",
-      "score": 75,
-      "reproductiveHealth": 12,
-      "cancerRisk": 13,
-      "transparency": 6,
-      "blackSkinAdaptability": 15,
-      "compositionSafety": 38,
-      "composition": [
-        { "ingredient": "Cires Naturelles", "risk": "🟢 Sain" },
-        { "ingredient": "Polymères", "risk": "🟡 Risque Faible" }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Fond de Teint Longue Tenue",
-      "brand": "Fenty Beauty",
-      "score": 90,
-      "reproductiveHealth": 18,
-      "cancerRisk": 17,
-      "transparency": 9,
-      "blackSkinAdaptability": 20,
-      "compositionSafety": 46,
-      "composition": [
-        { "ingredient": "Pigments Minéraux", "risk": "🟢 Sain" },
-        { "ingredient": "Silicones", "risk": "🟡 Risque Faible" }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Crème Mains Nourrissante",
-      "brand": "L'Occitane",
-      "score": 92,
-      "reproductiveHealth": 19,
-      "cancerRisk": 19,
-      "transparency": 9,
-      "blackSkinAdaptability": 19,
-      "compositionSafety": 48,
-      "composition": [
-        { "ingredient": "Beurre de Karité", "risk": "🟢 Sain" },
-        { "ingredient": "Huile d'Amande", "risk": "🟢 Sain" }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Rouge à Lèvres Mat",
-      "brand": "MAC Cosmetics",
-      "score": 85,
-      "reproductiveHealth": 15,
-      "cancerRisk": 16,
-      "transparency": 8,
-      "blackSkinAdaptability": 17,
-      "compositionSafety": 43,
-      "composition": [
-        { "ingredient": "Pigments Végétaux", "risk": "🟢 Sain" },
-        { "ingredient": "Cire de Carnauba", "risk": "🟢 Sain" }
       ]
     }
 ]
