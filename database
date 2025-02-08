@@ -3,11 +3,23 @@
     "id": 1,
     "name": "Crème Hydratante SPF 30",
     "brand": "CeraVe",
+    "category": "Hydratant Visage",
     "score": 90,
+    "safety_risk": 2,
+    "health_impact": {
+      "endocrine_disruptors": 1,
+      "carcinogenic_risk": 1,
+      "reproductive_toxicity": 2,
+      "skin_irritation": 2,
+      "respiratory_toxicity": 1
+    },
+    "black_skin_friendly": true,
+    "hyperpigmentation_safe": true,
+    "brand_transparency_score": 9,
     "composition": [
-      { "ingredient": "Beurre de Karité", "risk": "🟢" },
-      { "ingredient": "Niacinamide", "risk": "🟢" },
-      { "ingredient": "Parfum", "risk": "🟡" }
+      { "ingredient": "Beurre de Karité", "risk": "🟢", "safety_score": 1 },
+      { "ingredient": "Niacinamide", "risk": "🟢", "safety_score": 2 },
+      { "ingredient": "Parfum", "risk": "🟡", "safety_score": 5 }
     ],
     "adaptability": {
       "hydration": true,
@@ -15,106 +27,5 @@
       "sun_protection": true
     },
     "link": "https://www.cerave.fr/nos-produits/soin-visage/creme-hydratante-spf-30"
-  },
-  {
-    "id": 2,
-    "name": "Gel Nettoyant Effaclar",
-    "brand": "La Roche-Posay",
-    "score": 75,
-    "composition": [
-      { "ingredient": "Aloe Vera", "risk": "🟢" },
-      { "ingredient": "Alcool Dénaturé", "risk": "🟠" },
-      { "ingredient": "Sulfate de Sodium", "risk": "🟡" }
-    ],
-    "adaptability": {
-      "hydration": false,
-      "texture": "Mousse",
-      "sun_protection": false
-    },
-    "link": "https://www.laroche-posay.fr/effaclar-gel-nettoyant"
-  },
-  {
-    "id": 3,
-    "name": "Lait Hydratant Nourrissant",
-    "brand": "Mixa",
-    "score": 85,
-    "composition": [
-      { "ingredient": "Huile d'Amande Douce", "risk": "🟢" },
-      { "ingredient": "Glycérine", "risk": "🟢" },
-      { "ingredient": "Parfum", "risk": "🟡" }
-    ],
-    "adaptability": {
-      "hydration": true,
-      "texture": "Lait",
-      "sun_protection": false
-    },
-    "link": "https://www.mixa.fr/lait-hydratant-nourrissant"
-  },
-  {
-    "id": 4,
-    "name": "Crème Visage Anti-Taches",
-    "brand": "Nuhanciam",
-    "score": 95,
-    "composition": [
-      { "ingredient": "Vitamine C", "risk": "🟢" },
-      { "ingredient": "Extrait de Réglisse", "risk": "🟢" },
-      { "ingredient": "Parfum", "risk": "🟡" }
-    ],
-    "adaptability": {
-      "hydration": true,
-      "texture": "Crème",
-      "sun_protection": true
-    },
-    "link": "https://www.nuhanciam.com/creme-anti-taches"
-  },
-  {
-    "id": 5,
-    "name": "Gelée Corps Hydratante",
-    "brand": "Vaseline",
-    "score": 80,
-    "composition": [
-      { "ingredient": "Gelée de Pétrole", "risk": "🟡" },
-      { "ingredient": "Glycérine", "risk": "🟢" } 
-    ],
-    "adaptability": {
-      "hydration": true,
-      "texture": "Gelée",
-      "sun_protection": false
-    },
-    "link": "https://www.vaseline.com/us/en/products/vaseline-jelly/vaseline-original-healing-jelly.html"
-  },
-  {
-    "id": 6,
-    "name": "Lipikar Lait Hydratant Corps",
-    "brand": "La Roche-Posay",
-    "score": 88,
-    "composition": [
-      { "ingredient": "Beurre de Karité", "risk": "🟢" },
-      { "ingredient": "Glycérine", "risk": "🟢" },
-      { "ingredient": "Niacinamide", "risk": "🟢" }
-    ],
-    "adaptability": {
-      "hydration": true,
-      "texture": "Lait",
-      "sun_protection": false
-    },
-    "link": "https://www.laroche-posay.fr/lipikar-lait-hydratant"
-  },
-  {
-    "id": 7,
-    "name": "Base Crème Visage",
-    "brand": "WAAM Cosmetics",
-    "score": 90,
-    "composition": [
-      { "ingredient": "Beurre de Karité", "risk": "🟢" },
-      { "ingredient": "Huile de Coco", "risk": "🟢" },
-      { "ingredient": "Glycérine", "risk": "🟢" }
-    ],
-    "adaptability": {
-      "hydration": true,
-      "texture": "Crème",
-      "sun_protection": false
-    },
-    "link": "https://waamcosmetics.com/fr/les-bases-neutres/1258-base-creme-visage-3700851106667.html"
   }
 ]
